@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.02c68f5b.chunk.css",
-    "main.js": "/my-app/static/js/main.2f3270e4.chunk.js",
-    "main.js.map": "/my-app/static/js/main.2f3270e4.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.38be728e.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.38be728e.js.map",
-    "static/js/2.9a92aba6.chunk.js": "/my-app/static/js/2.9a92aba6.chunk.js",
-    "static/js/2.9a92aba6.chunk.js.map": "/my-app/static/js/2.9a92aba6.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "precache-manifest.b4b659017acf84c40d05c6e6a95809f6.js": "/my-app/precache-manifest.b4b659017acf84c40d05c6e6a95809f6.js",
-    "service-worker.js": "/my-app/service-worker.js",
-    "static/css/main.02c68f5b.chunk.css.map": "/my-app/static/css/main.02c68f5b.chunk.css.map",
-    "static/js/2.9a92aba6.chunk.js.LICENSE.txt": "/my-app/static/js/2.9a92aba6.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/my-app/static/media/Illustration4.df92c811.png"
+    "main.css": "/CodaGlobalFrontEndChallenge/static/css/main.717f9f54.chunk.css",
+    "main.js": "/CodaGlobalFrontEndChallenge/static/js/main.acfddba1.chunk.js",
+    "main.js.map": "/CodaGlobalFrontEndChallenge/static/js/main.acfddba1.chunk.js.map",
+    "runtime-main.js": "/CodaGlobalFrontEndChallenge/static/js/runtime-main.1697ab13.js",
+    "runtime-main.js.map": "/CodaGlobalFrontEndChallenge/static/js/runtime-main.1697ab13.js.map",
+    "static/js/2.9a92aba6.chunk.js": "/CodaGlobalFrontEndChallenge/static/js/2.9a92aba6.chunk.js",
+    "static/js/2.9a92aba6.chunk.js.map": "/CodaGlobalFrontEndChallenge/static/js/2.9a92aba6.chunk.js.map",
+    "index.html": "/CodaGlobalFrontEndChallenge/index.html",
+    "precache-manifest.415176b0d0e5699f485089c67ce91d47.js": "/CodaGlobalFrontEndChallenge/precache-manifest.415176b0d0e5699f485089c67ce91d47.js",
+    "service-worker.js": "/CodaGlobalFrontEndChallenge/service-worker.js",
+    "static/css/main.717f9f54.chunk.css.map": "/CodaGlobalFrontEndChallenge/static/css/main.717f9f54.chunk.css.map",
+    "static/js/2.9a92aba6.chunk.js.LICENSE.txt": "/CodaGlobalFrontEndChallenge/static/js/2.9a92aba6.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/CodaGlobalFrontEndChallenge/static/media/Illustration4.df92c811.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.38be728e.js",
+    "static/js/runtime-main.1697ab13.js",
     "static/js/2.9a92aba6.chunk.js",
-    "static/css/main.02c68f5b.chunk.css",
-    "static/js/main.2f3270e4.chunk.js"
+    "static/css/main.717f9f54.chunk.css",
+    "static/js/main.acfddba1.chunk.js"
   ]
 }
