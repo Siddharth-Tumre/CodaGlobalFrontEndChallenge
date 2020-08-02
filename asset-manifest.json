@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/CodaGlobalFrontEndChallenge/static/css/main.717f9f54.chunk.css",
-    "main.js": "/CodaGlobalFrontEndChallenge/static/js/main.acfddba1.chunk.js",
-    "main.js.map": "/CodaGlobalFrontEndChallenge/static/js/main.acfddba1.chunk.js.map",
+    "main.js": "/CodaGlobalFrontEndChallenge/static/js/main.3cf46b82.chunk.js",
+    "main.js.map": "/CodaGlobalFrontEndChallenge/static/js/main.3cf46b82.chunk.js.map",
     "runtime-main.js": "/CodaGlobalFrontEndChallenge/static/js/runtime-main.1697ab13.js",
     "runtime-main.js.map": "/CodaGlobalFrontEndChallenge/static/js/runtime-main.1697ab13.js.map",
     "static/js/2.9a92aba6.chunk.js": "/CodaGlobalFrontEndChallenge/static/js/2.9a92aba6.chunk.js",
     "static/js/2.9a92aba6.chunk.js.map": "/CodaGlobalFrontEndChallenge/static/js/2.9a92aba6.chunk.js.map",
     "index.html": "/CodaGlobalFrontEndChallenge/index.html",
-    "precache-manifest.415176b0d0e5699f485089c67ce91d47.js": "/CodaGlobalFrontEndChallenge/precache-manifest.415176b0d0e5699f485089c67ce91d47.js",
+    "precache-manifest.761f4110f87d3dcaa5df081a19957a98.js": "/CodaGlobalFrontEndChallenge/precache-manifest.761f4110f87d3dcaa5df081a19957a98.js",
     "service-worker.js": "/CodaGlobalFrontEndChallenge/service-worker.js",
     "static/css/main.717f9f54.chunk.css.map": "/CodaGlobalFrontEndChallenge/static/css/main.717f9f54.chunk.css.map",
     "static/js/2.9a92aba6.chunk.js.LICENSE.txt": "/CodaGlobalFrontEndChallenge/static/js/2.9a92aba6.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.1697ab13.js",
     "static/js/2.9a92aba6.chunk.js",
     "static/css/main.717f9f54.chunk.css",
-    "static/js/main.acfddba1.chunk.js"
+    "static/js/main.3cf46b82.chunk.js"
   ]
 }
